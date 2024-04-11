@@ -1,0 +1,57 @@
+
+
+
+.carousel-inner img{
+    max-width: 100%;
+    max-height: 800px;
+
+
+}
+
+.navbar-nav .nav-link:hover {
+    color: #17a2b8; /* Cambia de color cuando se pasa el ratón */
+  }
+  .navbar-nav .nav-link-active:hover {
+    color: #17a2b8; /* Cambia de color cuando se pasa el ratón */
+  }
+
+
+.footer {
+    background-color: #343a40; /* Color de fondo del pie de página */
+    color: #ffffff; /* Color del texto del pie de página */
+    padding: 20px 0; /* Espacio interior */
+  }
+  
+  /* Estilos para los íconos en el pie de página */
+footer a {
+    color: #ffffff; /* Color de los íconos */
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  /* Estilos para los íconos en el pie de página al pasar el ratón */
+footer a:hover {
+    color: #4428f8; /* Cambia de color al pasar el ratón */
+  }
+
+
+
+  .container1 {
+    background-color: #f0f0f0; /* Cambia el color de fondo del contenedor */
+    padding: 20px; /* Agrega espacio alrededor del contenido del contenedor */
+  }
+  
+  .container1 h2 {
+    color: #4192fc; /* Cambia el color del texto del encabezado dentro del contenedor */
+  }
+  
+  .container1 .col{
+    font-size: medium;
+
+  }
+
+  .container1 h2{
+    color: #343a40;
+  }
+
+
